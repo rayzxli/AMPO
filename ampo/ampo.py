@@ -1,7 +1,6 @@
 import numpy as np
 from .individual import Individual
 from .solution import Solution
-import ipdb
 
 class AMPO:
 
