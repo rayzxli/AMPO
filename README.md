@@ -39,10 +39,10 @@ if __name__ == '__main__':
 The design of the AMPO is partly inspired by virus spread  in nature. Our preliminary work called Virus Spread Optimization (VSO) can be seen in [2][3]. The design ideas of both algorithms are almost same. However, the AMPO is the simplified version of the VSO. Compared with the VSO, the AMPO has fewer user-controlled parameters and a faster speed.
 
 ## Publications
+[1] Z. Li, V. Tam and L. K. Yeung, "An Adaptive Multi-Population Optimization Algorithm for Global Continuous Optimization," in IEEE Access, vol. 9, pp. 19960-19989, 2021, doi: 10.1109/ACCESS.2021.3054636. [[Download]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9336004) [[Cite]](https://ieeexplore.ieee.org/document/9336004/)
 
-[1] Z. Li, V. Tam and L. K. Yeung, "An adaptive multi-population optimization algorithm for global continuous optimization," in IEEE Access, doi: 10.1109/ACCESS.2021.3054636. [[Download]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9336004) [[Cite]](https://ieeexplore.ieee.org/document/9336004/)
 
-[2] Z. Li, V. Tam and L. K. Yeung, "A study on parameter sensitivity analysis of the virus spread optimization," 2020 IEEE Symposium Series on Computational Intelligence (SSCI), Canberra, Australia, 2020, pp. 1535-1542, doi: 10.1109/SSCI47803.2020.9308167. [[Download]](https://ieeexplore.ieee.org/document/9308167) [[Cite]](https://ieeexplore.ieee.org/document/9308167)
+[2] Z. Li, V. Tam and L. K. Yeung, "A study on parameter sensitivity analysis of the virus spread optimization," in 2020 IEEE Symposium Series on Computational Intelligence (SSCI), Canberra, Australia, 2020, pp. 1535-1542, doi: 10.1109/SSCI47803.2020.9308167. [[Download]](https://ieeexplore.ieee.org/document/9308167) [[Cite]](https://ieeexplore.ieee.org/document/9308167)
 
 [3] Z. Li & V. Tam, "A novel meta-heuristic optimization algorithm inspired by the spread of viruses," arXiv preprint arXiv:2006.06282 (2020). [[Download]](https://arxiv.org/pdf/2006.06282)
 
